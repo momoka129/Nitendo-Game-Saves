@@ -1,0 +1,11 @@
+{
+  "Config" : {
+    "enable_battle_answer_area" : true,
+    "puzzle_auto_add_time" : 10,
+    "enable_puzzle_auto_add_time" : false,
+    "enable_sixaxis_sensor" : false,
+    "gamma_level" : 0,
+    "vibration_level" : 0,
+    "enable_vibration" : true
+  }
+}
